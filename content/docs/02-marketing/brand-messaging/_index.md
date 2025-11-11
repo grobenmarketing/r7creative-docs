@@ -12,13 +12,11 @@ Complete brand messaging framework including positioning, value proposition, tar
 
 ## Framework Components
 
-{{< cards >}}
-  {{< card link="00-overview" title="Brand Pillars Overview" >}}
-  {{< card link="01-brand-positioning" title="Brand Positioning Statement" >}}
-  {{< card link="02-unique-value-proposition" title="Unique Value Proposition" >}}
-  {{< card link="03-target-market" title="Target Market Definition" >}}
-  {{< card link="04-problem-solved" title="Problem Solved Statement" >}}
-  {{< card link="05-customer-avatar" title="Customer Avatar Summary" >}}
-  {{< card link="06-messaging-framework" title="Messaging Framework" >}}
-  {{< card link="copywriting-stories/" title="Copywriting Stories" >}}
-{{< /cards >}}
+- **[Brand Pillars Overview](00-overview)**
+- **[Brand Positioning Statement](01-brand-positioning)**
+- **[Unique Value Proposition](02-unique-value-proposition)**
+- **[Target Market Definition](03-target-market)**
+- **[Problem Solved Statement](04-problem-solved)**
+- **[Customer Avatar Summary](05-customer-avatar)**
+- **[Messaging Framework](06-messaging-framework)**
+- **[Copywriting Stories](copywriting-stories)**

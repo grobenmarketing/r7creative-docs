@@ -11,9 +11,7 @@ Job descriptions, training frameworks, and team development documentation.
 
 ## HR Resources
 
-{{< cards >}}
-  {{< card link="csm-job-description" title="CSM Job Description" >}}
-{{< /cards >}}
+- **[CSM Job Description](csm-job-description)**
 
 ## Related Training
 

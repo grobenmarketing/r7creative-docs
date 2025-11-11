@@ -11,6 +11,4 @@ Pricing strategy, financial planning, and budget documentation.
 
 ## Finance Resources
 
-{{< cards >}}
-  {{< card link="pricing-strategy" title="Pricing Strategy" >}}
-{{< /cards >}}
+- **[Pricing Strategy](pricing-strategy)**

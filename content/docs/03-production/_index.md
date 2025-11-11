@@ -12,9 +12,7 @@ Service delivery documentation, production workflows, and technical implementati
 
 ## Production Services
 
-{{< cards >}}
-  {{< card link="google-business-profile/" title="Google Business Profile Services" >}}
-  {{< card link="media-capture/" title="Media Capture Services" >}}
-  {{< card link="review-acquisition/" title="Review Acquisition Services" >}}
-  {{< card link="website-services/" title="Website Services" >}}
-{{< /cards >}}
+- **[Google Business Profile Services](google-business-profile)**
+- **[Media Capture Services](media-capture)**
+- **[Review Acquisition Services](review-acquisition)**
+- **[Website Services](website-services)**

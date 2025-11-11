@@ -11,7 +11,5 @@ Brand messaging, positioning frameworks, and content templates for marketing act
 
 ## Marketing Resources
 
-{{< cards >}}
-  {{< card link="brand-messaging/" title="Brand Messaging Framework" >}}
-  {{< card link="templates/" title="Content Templates" >}}
-{{< /cards >}}
+- **[Brand Messaging Framework](brand-messaging)**
+- **[Content Templates](templates)**

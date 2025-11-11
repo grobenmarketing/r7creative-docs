@@ -19,14 +19,12 @@ We create authentic trust-building media for Search & Social profiles. We help b
 
 ## Documentation by Business Category
 
-{{< cards >}}
-  {{< card link="01-sales" title="💰 Sales" >}}
-  {{< card link="02-marketing" title="📣 Marketing" >}}
-  {{< card link="03-production" title="🏭 Production" >}}
-  {{< card link="04-management" title="🎯 Management" >}}
-  {{< card link="05-finance" title="💵 Finance" >}}
-  {{< card link="06-human-resources" title="👥 Human Resources" >}}
-{{< /cards >}}
+- **[💰 Sales](01-sales)**
+- **[📣 Marketing](02-marketing)**
+- **[🏭 Production](03-production)**
+- **[🎯 Management](04-management)**
+- **[💵 Finance](05-finance)**
+- **[👥 Human Resources](06-human-resources)**
 
 ---
 

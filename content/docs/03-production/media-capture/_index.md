@@ -9,12 +9,10 @@ Professional on-site content capture service that solves the #1 client challenge
 
 ## Service Documentation
 
-{{< cards >}}
-  {{< card link="pre-capture-planning" title="Pre-Capture Planning Workflow" >}}
-  {{< card link="capture-day-procedures" title="On-Site Capture Day Procedures" >}}
-  {{< card link="post-capture-pipeline" title="Post-Capture Content Pipeline" >}}
-  {{< card link="service-agreement-template" title="Media Capture Service Agreement" >}}
-{{< /cards >}}
+- **[Pre-Capture Planning Workflow](pre-capture-planning)**
+- **[On-Site Capture Day Procedures](capture-day-procedures)**
+- **[Post-Capture Content Pipeline](post-capture-pipeline)**
+- **[Media Capture Service Agreement](service-agreement-template)**
 
 ## Related Documentation
 

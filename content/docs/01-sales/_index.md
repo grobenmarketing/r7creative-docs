@@ -11,10 +11,8 @@ Sales materials, pricing, service offerings, and client qualification processes.
 
 ## Sales Resources
 
-{{< cards >}}
-  {{< card link="service-offering" title="Complete Service Offering" >}}
-  {{< card link="pricing" title="Pricing Structure" >}}
-  {{< card link="client-qualification" title="Client Qualification Process" >}}
-  {{< card link="service-agreements" title="Service Agreements" >}}
-  {{< card link="media-capture-overview" title="Media Capture Service Overview" >}}
-{{< /cards >}}
+- **[Complete Service Offering](service-offering)**
+- **[Pricing Structure](pricing)**
+- **[Client Qualification Process](client-qualification)**
+- **[Service Agreements](service-agreements)**
+- **[Media Capture Service Overview](media-capture-overview)**

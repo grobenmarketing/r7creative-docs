@@ -15,12 +15,10 @@ Project management, workflow coordination, and operational planning documentatio
 
 ## Management Resources
 
-{{< cards >}}
-  {{< card link="csm-workflow" title="CSM Workflow" >}}
-  {{< card link="implementation-checklist" title="Implementation Checklist" >}}
-  {{< card link="workflow-guide" title="Workflow Guide" >}}
-  {{< card link="meeting-agendas" title="Meeting Agendas" >}}
-  {{< card link="email-templates" title="Email Templates" >}}
-  {{< card link="you-capture-we-create-workflow" title="You Capture We Create Workflow" >}}
-  {{< card link="service-agreements" title="Service Agreements" >}}
-{{< /cards >}}
+- **[CSM Workflow](csm-workflow)**
+- **[Implementation Checklist](implementation-checklist)**
+- **[Workflow Guide](workflow-guide)**
+- **[Meeting Agendas](meeting-agendas)**
+- **[Email Templates](email-templates)**
+- **[You Capture We Create Workflow](you-capture-we-create-workflow)**
+- **[Service Agreements](service-agreements)**

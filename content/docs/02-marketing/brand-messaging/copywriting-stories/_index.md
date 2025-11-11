@@ -8,9 +8,7 @@ Compelling copywriting stories and real-world examples demonstrating R7 Creative
 
 ## Stories
 
-{{< cards >}}
-  {{< card link="epiphany-bridge-story.md" title="1300 Businesses Epiphany Bridge Story" >}}
-  {{< card link="john-story.md" title="The John Story" >}}
-  {{< card link="messaging-insights.md" title="Marketing Messaging Key Insights" >}}
-  {{< card link="print-shop-case-study.md" title="Print Shop Case Study: From Employee to Marketing Partner" >}}
-{{< /cards >}}
+- **[1300 Businesses Epiphany Bridge Story](epiphany-bridge-story.md)**
+- **[The John Story](john-story.md)**
+- **[Marketing Messaging Key Insights](messaging-insights.md)**
+- **[Print Shop Case Study: From Employee to Marketing Partner](print-shop-case-study.md)**

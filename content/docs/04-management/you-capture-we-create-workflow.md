@@ -1,5 +1,5 @@
 ---
-title: "You Capture We Create Workflow"
+title: "CLICKUP: You Capture We Create Workflow"
 description: "Complete operational workflow for bi-weekly content management system with client captures, editing, review, and publishing"
 weight: 15
 tags: ["operations", "workflow", "content", "process", "client-management"]

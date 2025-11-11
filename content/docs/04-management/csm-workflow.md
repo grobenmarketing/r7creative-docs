@@ -1,5 +1,5 @@
 ---
-title: "Customer Service Manager (CSM) Workflow"
+title: "CLICKUP: Customer Service Manager (CSM) Workflow"
 description: "Complete workflow for managing client relationships from onboarding through ongoing service delivery"
 weight: 21
 category: management

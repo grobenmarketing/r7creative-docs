@@ -1,5 +1,5 @@
 ---
-title: "Workflow Guide"
+title: "CLICKUP: Workflow Guide"
 description: "Complete content creation workflow guide for 'You Capture We Create' and full-service production models"
 weight: 26
 tags: ["operations", "workflow", "content", "guide"]

@@ -1,5 +1,5 @@
 ---
-title: "ClickUp Structure & System Relationships"
+title: "CLICKUP: ClickUp Structure & System Relationships"
 description: "Complete guide to R7 Creative's dual ClickUp systems: You Capture We Create and Two Clocks"
 weight: 30
 tags: ["clickup", "workflow", "systems", "operations"]

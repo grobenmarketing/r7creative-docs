@@ -261,10 +261,10 @@ The Component Gallery is R7 Creative's **master Hugo theme** that serves as the 
 title: "Home"
 ---
 
-{{< hero type="image" >}}
-{{< service-grid >}}
-{{< testimonial-slider >}}
-{{< cta-banner >}}
+{{</* hero type="image" */>}}
+{{</* service-grid */>}}
+{{</* testimonial-slider */>}}
+{{</* cta-banner */>}}
 ```
 
 #### 4.3: Other Layout Templates
@@ -508,11 +508,11 @@ answer = "We serve Columbus and all surrounding counties."
 **Purpose:** Large hero section with background image overlay
 
 **Shortcode:**
-{{< hero type="image" image="/images/hero-bg.jpg" >}}
+{{</* hero type="image" image="/images/hero-bg.jpg" */>}}
   # Your Headline Here
   Subheadline text goes here.
-  {{< button link="/contact/" text="Get Started" >}}
-{{< /hero >}}
+  {{</* button link="/contact/" text="Get Started" */>}}
+{{</* /hero */>}}
 
 **Options:**
 - `type`: "image" | "split" | "simple"

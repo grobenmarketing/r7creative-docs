@@ -313,24 +313,24 @@ r7creative-docs/
 │   ├── pricing.md (SOURCE OF TRUTH)
 │   ├── service-offering.md (WHAT each tier includes)
 │   ├── client-qualification.md (WHO we serve)
-│   └── media-capture-overview.md (WHAT it is, simplified)
+│   └── ~~media-capture-overview.md (WHAT it is, simplified)~~ not needed
 │
 ├── 02-marketing/
-│   └── brand-messaging/ (SOURCE OF TRUTH for voice/tone/copy)
+│   └── brand-messaging/ (SOURCE OF TRUTH for voice/tone/copy) This would include our brand pillars
 │       ├── 01-brand-positioning.md
 │       ├── 02-aeo-copywriting.md
-│       └── website-content/ (master website copy files)
+│       └── ~~website-content/ (master website copy files)~~ No, the website itself is the final copy
 │
 ├── 03-production/
 │   └── [Simple deliverable checklists per service]
 │       ├── gbp-deliverables.md (WHAT we deliver)
 │       ├── social-media-deliverables.md
 │       ├── website-deliverables.md
-│       └── review-acquisition-deliverables.md
+│       └── content-creation-deliverables.md (new) review-acquisition-deliverables.md
 │
 ├── 04-management/
 │   ├── service-agreements.md (LEGAL templates)
-│   └── role-definitions/ (WHO does WHAT)
+│   └── role-definitions/ (WHO does WHAT) is this a complete list.of roles even if one person did them all?
 │       ├── salesperson.md
 │       ├── csm.md
 │       ├── copywriter.md
@@ -339,7 +339,7 @@ r7creative-docs/
 │       └── video-editor.md
 │
 └── 05-finance/
-    └── pricing-strategy.md (WHY we price this way)
+    └── pricing-strategy.md (WHY we price this way) this would be price.justirication. vs freelancers, vs agencies, vs inhouse (low priority)
 ```
 
 **What Moves to ClickUp:**
@@ -349,7 +349,7 @@ r7creative-docs/
 - All meeting agendas
 - All email templates
 - All task management
-
+*I need a document list
 ---
 
 ## ✅ IMMEDIATE NEXT STEPS

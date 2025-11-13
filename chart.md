@@ -1,27 +1,22 @@
 ```mermaid
-
-timeline
-    title R7 Creative Client Journey
+journey
+    title R7 Creative User Journey
     section The Sale
-        Week 1 : Initial Contact
-               : Needs Assessment
-        Week 2 : Quote Review
-               : Contract Signing
+      Initial Contact: 5: Client
+      Needs Assessment: 4: Client
+      Quote Review: 4: Client
+      Contract Signing: 5: Client
     section Onboarding
-        Week 3 : Project Kickoff
-               : Information Gathering
-        Week 4 : Timeline Agreement
-    section Design
-        Week 5-6 : Concept Development
-        Week 7 : Client Review & Revisions
-        Week 8 : Final Approval
-    section Production
-        Week 9-11 : Material Ordering & Production
-        Week 12 : Quality Check
+      Project Kickoff: 5: Client
+      Information Gathering: 4: Client
+      Timeline Agreement: 4: Client
+    section Design Phase
+      Concept Review: 5: Client
+      Feedback Session: 4: Client
+      Final Approval: 5: Client
     section Delivery
-        Week 13 : Installation
-                : Final Walkthrough
-
+      Installation: 5: Client
+      Final Walkthrough: 5: Client
 ```
 
 ```mermaid

@@ -1,5 +1,5 @@
 ---
-title: "Email & Communication Templates"
+title: "CLICKUP: Email & Communication Templates"
 description: "Standard email templates for client communication throughout the entire service lifecycle"
 weight: 22
 category: management

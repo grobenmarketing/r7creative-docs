@@ -1,5 +1,5 @@
 ---
-title: "Meeting Agendas"
+title: "CLICKUP: Meeting Agendas"
 description: "Detailed agendas for Brand Strategy, Content Strategy, and ongoing client meetings"
 weight: 23
 category: management

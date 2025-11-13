@@ -1,6 +1,6 @@
 ---
-title: 🎯 Management
-linkTitle: 🎯 Management
+title: CLICKUP: 🎯 Management
+linkTitle: CLICKUP: 🎯 Management
 weight: 4
 category: management
 aliases:

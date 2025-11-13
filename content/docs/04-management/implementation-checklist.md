@@ -1,5 +1,5 @@
 ---
-title: "Implementation Checklist"
+title: "CLICKUP: Implementation Checklist"
 description: "Step-by-step client onboarding checklist with ClickUp structure and Time to Value milestones"
 weight: 25
 category: management
